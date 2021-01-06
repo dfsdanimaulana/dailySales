@@ -94,7 +94,7 @@ public class Main {
                     break;
 
                 default :
-                    println("Maaf nomer yang anda masukkan tidak tersedia.\n");
+                    println("Maaf nomer yang anda masukkan tidak tersedia, silakan masukkan nomer yang tertera di atas.\n");
                     break;
             }
             String pilihan=userInput.next();
