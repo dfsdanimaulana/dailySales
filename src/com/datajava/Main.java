@@ -97,10 +97,11 @@ public class Main {
                     println("Maaf nomer yang anda masukkan tidak tersedia, silakan masukkan nomer yang tertera di atas.\n");
                     break;
             }
-            String pilihan=userInput.next();
+            print("Ingin Melanjutkan [yes/no] : ");
+
             boolean z=true ;
             while(z){
-                print("Ingin Melanjutkan [yes/no] : ");
+                String pilihan=userInput.next();
                 switch (pilihan){
                     case "yes":
                         z=false ;
