@@ -113,7 +113,7 @@ public class Main {
                         break;
 
                     default :
-                        System.err.println("Wrong Input.");
+                        System.err.println("Input salah,masukkan [yes/no]");
                         break;
 
 
