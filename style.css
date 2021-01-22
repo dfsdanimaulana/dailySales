@@ -1,0 +1,74 @@
+body {
+    font-size: 15pt;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+#form1{
+  border: 2px solid black;
+  border-radius:10px;
+  background-color: lightgreen;
+}
+.popup{
+  font-size: 10px;
+  background: red;
+}
+.inp{
+  border:1px solid orangered;
+  border-radius:4px;
+  background-color:lemonchiffon;
+  padding-left: 5px;
+}
+.inp:hover{
+  background-color: yellow;
+}
+#form2{
+  margin-top: 50px;
+  background-color:blue;
+  border:2px solid black;
+  border-radius: 10px;
+}
+.pilihan{
+  border: 4px solid black;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  background:lightblue;
+}
+.container{
+  background: lightgreen;
+}
+.cust {
+  width: 60px;
+}
+#kontainer{
+  margin: 30px;
+}
+.btn {
+  margin-top: 10px;
+  margin-block: 10px;
+  width: 200px;
+}
+.submit{
+  background-color: lightgreen;
+  height: 25px;
+  width: 65px;
+  border-radius:7px;
+  border:2px solid #55413D;
+}
+#hasil{
+  border: 2px solid black;
+  margin: 10px;
+  padding-top:20px;
+  padding-block:20px;
+  padding-left:20px;
+  height: 50px;
+  width: 200px;
+  background-color: lemonchiffon;
+  font-size: 14px;
+  text-align: left;
+  border-radius:5px;
+}
+*{
+  box-shadow: 2 2 2;
+}
